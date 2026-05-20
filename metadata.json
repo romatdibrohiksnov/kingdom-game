@@ -1,0 +1,6 @@
+{
+  "name": "Kingdom Builder",
+  "description": "An interactive fantasy kingdom strategy game where players expand territory, build and upgrade custom productions, upgrade legendary armory equipment, and deploy secret promo codes to unlock unique celestial buildings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
